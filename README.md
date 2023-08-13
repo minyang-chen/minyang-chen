@@ -29,9 +29,9 @@ DuckDB, Apache Spark,Apache Iceberg, Cassandra, Hadoop,Delta Lake and Talend
 **🏗️ Frameworks**  
 Angular, Spring, Rust, React, Svelte, React-Native, LitElement, GraphQL, Gatsby, TailwindCSS
 
-## 🔭 Upcoming topics
+## 🔭 Other topics
 
-Here are some ideas to get you started:
+Here are some ideas to write about:
 
 - 🔭 I’m currently working on ... [LLM fine-tuning and private knowledge integration]
 - 🌱 I’m currently learning ...
