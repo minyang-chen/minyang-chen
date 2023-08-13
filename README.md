@@ -1,7 +1,7 @@
 # Software, Data, ML, Cloud Engineer and Enterprise Solution Architect -- now LLM Enthusiast
 
 ### Hi there 👋
-Hello, my name is Minyang. I am living in Greater Toronto Area, Canada.
+my name is Minyang. I am living in Greater Toronto Area, Canada.
 
 I architected, designed and implemented business critical hub placement, billing and financial solution at world largest commercial insurance broker Marsh Canada (parent: MMC).  As tech lead for one of the Canada largest Bank BMO to complete the banking systems modernization with real-time lead management and offering capabilities. At IBM Canada - Watson health to tackle big data challenges in Health Care. developing secure platformm, Cloud cognitive services and big data pipelines for analytics and AI use cases. 
 
