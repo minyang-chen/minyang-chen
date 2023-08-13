@@ -1,4 +1,4 @@
-# Software(Data,ML,Cloud) Engineer and Enterprise Solution Architect -- now LLM Enthusiast
+# Software(Data,ML,Cloud) Engineer and Enterprise Architect -- now LLM Enthusiast
 
 ### Hi there 👋
 my name is Minyang, welcome to my github repositories. I am software enginner living in Greater Toronto Area, Canada.
