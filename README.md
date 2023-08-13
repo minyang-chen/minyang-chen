@@ -14,11 +14,11 @@ email: mychen76@gmail.com
 
 I believe that one should not have a fixed technology stack, but should always respond to the needs and problems of the customer and business needs. Below is just an excerpt and my favorite technologies in machine learning, cloud and non-ML frameworks.
 
+**🤖 Generative AI/ LLM**  
+OpenAI ChatGPT, LLama2, Alpaca, H2OGPT 
+
 **🤖 Machine Learning**  
 LangChain,LlamIndex, Huggingface Transformers, Pytorch, Scikit-Learn, Tensorflow, Weights & Bias, Optuna, Pandas, Numpy
-
-**☁️ Generative AI/ LLM**  
-OpenAI ChatGPT, LLama2, Alpaca, H2OGPT 
 
 **☁️ Cloud**  
 AWS, GCP, Azure, Kubernetes, Kubeflow, Docker, Terraform, AWS CDK, Github Actions, Serverless Framework
