@@ -10,6 +10,7 @@ I found my passion for AI, big data, cloud and mental model concepts many years 
 ## 🔗 Connect with me 
 - Email: https://mychen76@gmail.com
 - Medium: https://medium.com/@mychen76
+- Huggingface: https://huggingface.co/mychen76
 - Github: https://github.com/minyang-chen
 - AI.Researches: https://github.com/PavAI-Research
 - Dev.Lab: https://github.com/McLabGalaxy
@@ -43,7 +44,7 @@ Clean, Event Driven, SOA, Distributed and decentralized, Polylith
 
 Here are some ideas to write about:
 
-- 🔭 I’m currently working on ... [AI researches, LLM fine-tuning and private knowledge integration]
+- 🔭 I’m currently working on ... [AI researches, LLM model Merging, LLM fine-tuning and private knowledge integration]
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
