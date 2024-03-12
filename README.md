@@ -8,11 +8,11 @@ I architected, designed and implemented business critical hub placement, billing
 I found my passion for AI, big data, cloud and mental model concepts many years ago. Since then I never stopped learning. Currently, I am focusing myself in the area Generative AI/Large Language Model (LLM) fine-tuning and knowledge enrichment with private data integration and how to leverage fine-tuned models to generate business value and assist problem-solving for an enterprise.
 
 ## 🔗 Connect with me 
-> email: mychen76@gmail.com
-> medium: medium.com/@mychen76
-> github: github.com/minyang-chen
-> AI.Research: github.com/PavAI-Research
-> DevLab: https://github.com/McLabGalaxy
+- email: mychen76@gmail.com
+- medium: medium.com/@mychen76
+- github: github.com/minyang-chen
+- AI.Research: github.com/PavAI-Research
+- DevLab: https://github.com/McLabGalaxy
 
 ## ⚡Technologies 
 
