@@ -30,7 +30,10 @@ DuckDB, Apache Spark,Apache Iceberg, Cassandra, Hadoop,Delta Lake and Talend
 Microsoft presidio, postgresql anonymizer
 
 **🏗️ Frameworks**  
-Angular, Spring, Rust, React, Svelte, React-Native, LitElement, GraphQL, Gatsby, TailwindCSS
+Poetry, Angular, Spring, Rust, React, Svelte, React-Native, LitElement, GraphQL, Gatsby, TailwindCSS
+
+**🏗️ Architectures**  
+Clean, Event Driven, SOA, Distributed and decentralized, Polylith
 
 ## 🔭 Other topics
 
