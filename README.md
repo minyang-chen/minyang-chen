@@ -9,6 +9,9 @@ I found my passion for AI, big data, cloud and mental model concepts many years 
 
 ## 🔗 Connect with me 
 email: mychen76@gmail.com
+medium: medium.com/@mychen76
+Pavai.research: github.com/PavAI-Research
+McLab.Galaxy: https://github.com/McLabGalaxy
 
 ## ⚡Technologies 
 
