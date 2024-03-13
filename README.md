@@ -14,6 +14,7 @@ I found my passion for AI, big data, cloud and mental model concepts many years 
 - Github: https://github.com/minyang-chen
 - AI.Researches: https://github.com/PavAI-Research
 - Dev.Lab: https://github.com/McLabGalaxy
+- linkedin: https://www.linkedin.com/in/minyang-chen
 
 ## ⚡Technologies 
 
