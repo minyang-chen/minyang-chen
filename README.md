@@ -1,4 +1,4 @@
-# Software(Data,AI,Cloud) Engineer and Enterprise Architect
+# Engineer in AI,Software,Data,Cloud and Enterprise Architect
 
 ### Hi there 👋
 my name is Minyang, welcome to my github repositories. I am software enginner living in Greater Toronto Area, Canada.
