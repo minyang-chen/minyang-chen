@@ -1,7 +1,7 @@
-# Engineer in AI,Software,Data,Cloud and Enterprise Solution Architect
+# AI,Data,Cloud Researcher / Solution Architect
 
 ### Hi there 👋
-my name is Minyang, welcome to my github repositories. I am Solution Architect and software enginner living in Greater Toronto Area, Canada.
+my name is Minyang, welcome to my github repositories. I am Solution Architect, Researcher and software enginner living in Greater Toronto Area, Canada.
 
 I architected, designed and implemented business critical hub placement, billing and financial solution at world largest commercial insurance broker Marsh Canada (parent: MMC).  As tech lead for one of the Canada largest Bank BMO to complete the banking systems modernization with real-time lead management and offering capabilities. At IBM Canada - Watson health tackling big data challenges in Health Care. developing secure privacy first platform, Cloud cognitive services and big data normalization pipelines, data protection and de-identification framework for analytics, data linking and AI training use cases. 
 
